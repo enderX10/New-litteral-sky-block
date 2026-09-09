@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "literalskyblock",
+  "version": "${version}",
+  "name": "Literal Sky Block",
+  "description": "Port of Litteral sky block by Gaming32  for newer versions of Minecraft",
+  "authors": ["EnderX"],
+  "contact": {},
+  "license": "LGPL-3.0",
+  "icon": "assets/literalskyblock/textures/block/sky_block.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.gaming32.literalskyblock.client.LSBClient"
+    ],
+    "main": [
+      "io.github.gaming32.literalskyblock.LiteralSkyBlock"
+    ]
+  },
+  "mixins": [
+    "literalskyblock.mixins.json"
+  ],
+  "accessWidener": "literalskyblock.accessWidener",
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "~1.20.6",
+    "java": ">=21"
+  }
+}
