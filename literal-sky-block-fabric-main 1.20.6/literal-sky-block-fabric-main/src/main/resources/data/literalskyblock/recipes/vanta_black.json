@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "literalskyblock:vanta_black",
+    "count": 8
+  }
+}
