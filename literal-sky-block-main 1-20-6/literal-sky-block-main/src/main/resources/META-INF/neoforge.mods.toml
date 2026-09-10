@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+issueTrackerURL = ""
+license = "LGPL-3.0"
+
+[[mods]]
+modId = "literalskyblock"
+version = "1.1.0"
+displayName = "Literal Sky Block"
+authors = "EnderX"
+description = '''
+Port of Litteral sky block by Latvian.dev for newer versions of Minecraft
+'''
+logoFile = "assets/literalskyblock/textures/block/sky_block.png"
+logoBlur = false
+
+[[dependencies.literalskyblock]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[20.6.138,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.literalskyblock]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.5,1.21)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "literalskyblock.mixins.json"
