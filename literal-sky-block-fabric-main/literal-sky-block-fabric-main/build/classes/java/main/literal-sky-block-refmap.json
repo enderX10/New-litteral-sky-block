@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "io/github/gaming32/literalskyblock/mixin/client/LevelRendererMixin": {
+      "Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;endBatch(Lnet/minecraft/client/renderer/RenderType;)V": "Lnet/minecraft/class_4597$class_4598;method_22994(Lnet/minecraft/class_1921;)V",
+      "renderLevel": "Lnet/minecraft/class_761;method_22710(Lnet/minecraft/class_9779;ZLnet/minecraft/class_4184;Lnet/minecraft/class_757;Lnet/minecraft/class_765;Lorg/joml/Matrix4f;Lorg/joml/Matrix4f;)V"
+    },
+    "io/github/gaming32/literalskyblock/mixin/client/MixinGameRenderer": {
+      "reloadShaders": "Lnet/minecraft/class_757;method_34538(Lnet/minecraft/class_5912;)V"
+    },
+    "io/github/gaming32/literalskyblock/mixin/client/MixinShaderInstance": {
+      "<init>": "Lnet/minecraft/class_5944;<init>(Lnet/minecraft/class_5912;Ljava/lang/String;Lnet/minecraft/class_293;)V",
+      "Lnet/minecraft/server/packs/resources/ResourceProvider;getResourceOrThrow(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/server/packs/resources/Resource;": "Lnet/minecraft/class_5912;getResourceOrThrow(Lnet/minecraft/class_2960;)Lnet/minecraft/class_3298;",
+      "getOrCreate": "Lnet/minecraft/class_5944;method_34579(Lnet/minecraft/class_5912;Lnet/minecraft/class_281$class_282;Ljava/lang/String;)Lnet/minecraft/class_281;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/gaming32/literalskyblock/mixin/client/LevelRendererMixin": {
+        "Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;endBatch(Lnet/minecraft/client/renderer/RenderType;)V": "Lnet/minecraft/class_4597$class_4598;method_22994(Lnet/minecraft/class_1921;)V",
+        "renderLevel": "Lnet/minecraft/class_761;method_22710(Lnet/minecraft/class_9779;ZLnet/minecraft/class_4184;Lnet/minecraft/class_757;Lnet/minecraft/class_765;Lorg/joml/Matrix4f;Lorg/joml/Matrix4f;)V"
+      },
+      "io/github/gaming32/literalskyblock/mixin/client/MixinGameRenderer": {
+        "reloadShaders": "Lnet/minecraft/class_757;method_34538(Lnet/minecraft/class_5912;)V"
+      },
+      "io/github/gaming32/literalskyblock/mixin/client/MixinShaderInstance": {
+        "<init>": "Lnet/minecraft/class_5944;<init>(Lnet/minecraft/class_5912;Ljava/lang/String;Lnet/minecraft/class_293;)V",
+        "Lnet/minecraft/server/packs/resources/ResourceProvider;getResourceOrThrow(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/server/packs/resources/Resource;": "Lnet/minecraft/class_5912;getResourceOrThrow(Lnet/minecraft/class_2960;)Lnet/minecraft/class_3298;",
+        "getOrCreate": "Lnet/minecraft/class_5944;method_34579(Lnet/minecraft/class_5912;Lnet/minecraft/class_281$class_282;Ljava/lang/String;)Lnet/minecraft/class_281;"
+      }
+    }
+  }
+}
