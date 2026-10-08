@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33a346b7-3c57-48cf-bc56-183c3b53c5ba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/literal-sky-block-main">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/literal-sky-block-main">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Literal-Sky-Block" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Literal-Sky-Block" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Literal-Sky-Block" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Literal-Sky-Block" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="mod development" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3JBm5NuW4uqIOFi0cK55YN03NGA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.literal-sky-block-main [build].executor": "Run",
+    "Gradle.literal-sky-block-main [runClient].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jasiu/Downloads/litteral sky/literal-sky-block-main/literal-sky-block-main/src/main/resources/data/literalskyblock/recipe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jasiu\Downloads\litteral sky\literal-sky-block-main\literal-sky-block-main\src\main\resources\data\literalskyblock\recipe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.literal-sky-block-main [runClient]">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\moddev\\clientRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\moddev\\clientRunVmArgs.txt&quot; &quot;-Dfml.modFolders=literalskyblock%%C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\classes\\java\\main;literalskyblock%%C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\resources\\main&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/literal-sky-block-main/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\moddev\\serverRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\moddev\\serverRunVmArgs.txt&quot; &quot;-Dfml.modFolders=literalskyblock%%C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\classes\\java\\main;literalskyblock%%C:\\Users\\jasiu\\Downloads\\litteral sky\\literal-sky-block-main\\literal-sky-block-main\\build\\resources\\main&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/literal-sky-block-main/run_server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="literal-sky-block-main [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/literal-sky-block-main" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="literal-sky-block-main [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/literal-sky-block-main" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.literal-sky-block-main [runClient]" />
+        <item itemvalue="Gradle.literal-sky-block-main [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a346b7-3c57-48cf-bc56-183c3b53c5ba" name="Changes" comment="" />
+      <created>1789142651347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789142651347</updated>
+    </task>
+    <servers />
+  </component>
+</project>
