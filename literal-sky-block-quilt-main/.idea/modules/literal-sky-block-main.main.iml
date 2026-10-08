@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="literal-sky-block-main:main" external.linked.project.path="$MODULE_DIR$/../../literal-sky-block-main" external.root.project.path="$MODULE_DIR$/../../literal-sky-block-main" external.system.id="GRADLE" external.system.module.group="com.enderx.sky" external.system.module.type="sourceSet" external.system.module.version="1.1.0+1.21" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>FABRIC</platformType>
+          <platformType>MIXIN</platformType>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="srgType" value="SRG" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../literal-sky-block-main/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../literal-sky-block-main/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../literal-sky-block-main/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:24.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.fabricmc:tiny-mappings-parser:0.3.0+build.17" level="project" />
+    <orderEntry type="library" name="Gradle: net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: net.fabricmc:tiny-remapper:0.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.fabricmc:access-widener:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.quiltmc:quilt-json5:1.0.4+final" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-analysis:9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-commons:9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-tree:9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-util:9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.quiltmc:quilt-config:1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.github.llamalad7:mixinextras-fabric:0.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.oshi:oshi-core:6.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:32.1.2-jre" level="project" />
+    <orderEntry type="library" name="Gradle: com.ibm.icu:icu4j:73.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:authlib:6.0.54" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:blocklist:1.0.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:brigadier:1.2.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:datafixerupper:8.0.16" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:logging:1.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:patchy:2.2.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.mojang:text2speech:1.17.9" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.16.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.15.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-classes-epoll:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: it.unimi.dsi:fastutil:8.5.12" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna-platform:5.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:5.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.26.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.22.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.22.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jcraft:jorbis:0.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.joml:joml:1.10.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-freetype:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-glfw:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-jemalloc:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-openal:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-opengl:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-stb:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-tinyfd:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.lz4:lz4-java:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.9" level="project" />
+    <orderEntry type="library" name="Gradle: net.minecraft:minecraft-merged-903688637d:1.21-loom.mappings.1_21.layered+hash.2198-v2" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:linux-aarch_64:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.97.Final" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc:quilt-loader:0.26.3" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:quilted-fabric-api:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-transfer-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-api-lookup-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-blockrenderlayer-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-client-tags-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-command-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-commands-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-command-api-v2:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-content-registries-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-data-generation-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-convention-tags-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-convention-tags-v2:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-data-attachment-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-entity-events-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-events-interaction-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-gametest-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-item-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-item-group-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-lifecycle-events-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-loot-api-v2:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-loot-api-v3:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-message-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-model-loading-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-recipe-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-screen-handler-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-registry-sync-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-networking-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-object-builder-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-particles-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-renderer-indigo:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-renderer-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-rendering-fluids-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-renderer-registries-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-rendering-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-rendering-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-screen-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-api-base:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-biome-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-block-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-rendering-data-attachment-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-block-view-api-v2:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-crash-report-info-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-dimensions-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-game-rule-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-keybindings-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-key-binding-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-resource-conditions-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-resource-loader-v0:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-sound-api-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.quilted-fabric-api:fabric-transitive-access-wideners-v1:11.0.0-alpha.3+0.102.0-1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.qsl.core:crash_info:10.0.0-alpha.1+1.21" level="project" />
+    <orderEntry type="library" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.org.quiltmc.qsl.core:qsl_base:10.0.0-alpha.1+1.21" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: loom_mappings_1_21_layered_hash_2198_v2.maven.modrinth:iris:1.8.0-beta.1+1.21-fabric" level="project" />
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: mappings.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/quilt-loom/1.21/loom.mappings.1_21.layered+hash.2198-v2/mappings.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.fabricmc:dev-launch-injector:0.2.1+build.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.minecrell:terminalconsoleappender:1.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-freetype:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-freetype:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-freetype:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-glfw:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-glfw:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-glfw:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-openal:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-openal:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-openal:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-opengl:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-opengl:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-opengl:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-stb:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-stb:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-stb:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-tinyfd:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-tinyfd:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl-tinyfd:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl:natives-windows:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl:natives-windows-arm64:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lwjgl:lwjgl:natives-windows-x86:3.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.quiltmc:quilt-loader:0.26.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jline:jline-reader:3.20.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jline:jline-terminal:3.20.0" level="project" />
+  </component>
+</module>
