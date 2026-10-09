@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: literalskyblock
-Specification-Vendor: latvian.dev
-Specification-Version: 1
-Implementation-Title: Literal-Sky-Block
-Implementation-Version: 2100.1.4-local.1789142720
-Implementation-Vendor: latvian.dev
-Implementation-Timestamp: 2026-09-11T18:05:20+0200
-
