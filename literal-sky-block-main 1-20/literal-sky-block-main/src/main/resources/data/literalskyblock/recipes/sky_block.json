@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SSS",
+    "SGS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "G": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "literalskyblock:sky_block",
+    "count": 8
+  }
+}
