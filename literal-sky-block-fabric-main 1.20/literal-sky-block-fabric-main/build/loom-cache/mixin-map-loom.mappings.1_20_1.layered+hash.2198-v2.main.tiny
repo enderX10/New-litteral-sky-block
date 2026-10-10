@@ -1,0 +1,3 @@
+v1	named	intermediary
+FIELD	io/github/gaming32/literalskyblock/mixin/client/LevelRendererMixin	Lnet/minecraft/client/renderer/RenderBuffers;	renderBuffers	field_20951
+METHOD	io/github/gaming32/literalskyblock/mixin/client/LevelRendererMixin	(Lnet/minecraft/client/renderer/LightTexture;FDDD)V	renderSnowAndRain	method_22714
