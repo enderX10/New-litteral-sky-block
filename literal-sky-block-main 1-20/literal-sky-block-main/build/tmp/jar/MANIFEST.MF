@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: literalskyblock
+Specification-Vendor: latvian.dev
+Specification-Version: 1
+Implementation-Title: Literal-Sky-Block
+Implementation-Version: 2006.1.4-local.1791566511
+Implementation-Vendor: latvian.dev
+Implementation-Timestamp: 2026-10-09T19:21:51+0200
+MixinConfigs: literalskyblock.mixins.json
+

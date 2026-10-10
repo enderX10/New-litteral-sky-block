@@ -1,0 +1,9 @@
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin capturedFrustum f_109442_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin cullingFrustum f_172938_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin minecraft f_109461_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin ticks f_109477_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin renderBuffers f_109464_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin renderSnowAndRain (Lnet/minecraft/client/renderer/LightTexture;FDDD)V m_109703_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin renderSky (Lcom/mojang/blaze3d/vertex/PoseStack;Lorg/joml/Matrix4f;FLnet/minecraft/client/Camera;ZLjava/lang/Runnable;)V m_202423_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin checkPoseStack (Lcom/mojang/blaze3d/vertex/PoseStack;)V m_109588_
+dev/latvian/mods/literalskyblock/mixin/LevelRendererMixin renderClouds (Lcom/mojang/blaze3d/vertex/PoseStack;Lorg/joml/Matrix4f;FDDD)V m_253054_
