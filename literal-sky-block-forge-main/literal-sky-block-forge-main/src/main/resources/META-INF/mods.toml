@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="literalskyblock"
+version="1.0.0"
+displayName="Literal Sky Block"
+
+[[dependencies.literalskyblock]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.literalskyblock]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21,1.22)"
+ordering="NONE"
+side="BOTH"
+
+#[[mixins]]
+#config="literalskyblock.mixins.json"
+
